@@ -1,7 +1,7 @@
 <svg width="462" height="462" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>background</title>
-  <rect fill="#fff" id="canvas_background" height="462" width="462" y="-1" x="-1"/>
+  <rect fill="##666699" id="canvas_background" height="462" width="462" y="-1" x="-1"/>
   <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
    <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
   </g>
